@@ -4,7 +4,8 @@ o código foi funciona no linux e windows, lembrando se for usar o linux não h�
 ou copiar o caminho.
 
 https://ffmeg.zeranoe.com/builds/
-https://ffmpeg.org/download.html se caso use windows aqui você faz o download, procura no bin o .exe e copia ele um python package
-documentação https://ffmpeg.org/documentation.html para mais detalhe e comandos.
+https://ffmpeg.org/download.html se caso use windows aqui você faz o download, procura no bin o .exe e copia ele um python package.
+
+A documentação https://ffmpeg.org/documentation.html para mais detalhe e comandos.
 
 
